@@ -1,0 +1,6 @@
+class Student:
+    name = "Divya"
+    age = 20
+
+print("Namespace of the class:")
+print(Student.__dict__)
